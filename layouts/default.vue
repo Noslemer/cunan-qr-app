@@ -111,7 +111,7 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'scanner',
           to: '/scanner'
-        }
+        },
       ],
       miniVariant: false,
       right: true,
